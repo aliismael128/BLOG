@@ -1,0 +1,8 @@
+@import './base.css';
+
+#app {
+ background-color: aqua;
+ width: 100%;
+ height: auto;
+ /* height:100vh; */
+}
